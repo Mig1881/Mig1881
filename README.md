@@ -55,7 +55,7 @@ Me interesan los entornos donde pueda aplicar mi experiencia en coordinación, n
 
 ## Contacto
 
-* **LinkedIn:** [[https://www.linkedin.com/in/miguelangelrubioibor/]]
-* **GitHub:** [[https://github.com/Mig1881]]
-* **Email:** miguelrubioibor@gmail.com
+LinkedIn: [Miguel Angel Rubio Ibor](https://www.linkedin.com/in/miguelangelrubioibor/)  
+GitHub: [Mig1881] (https://github.com/Mig1881)  
+Email: [miguelrubioibor@gmail.com](mailto:miguelrubioibor@gmail.com)  
 
