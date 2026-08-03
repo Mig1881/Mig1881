@@ -49,9 +49,9 @@ Esta es una aplicación Android nativa desarrollada para gestionar y votar en el
 
 ## Actualmente busco
 
-Busco un rol de Jefe de Equipo IT, Responsable de Formación o posiciones de desarrollo donde pueda integrar mi conocimiento técnico moderno (Java, Spring Boot, React) y Legacy, con la gestión de personas. 
+Incorporarme vía convenio de prácticas (FCT) a proyectos de desarrollo de software (Backend / Full-Stack), con especial interés en entornos Enterprise y procesos de modernización de aplicaciones.
 
-Me interesan los entornos donde pueda aplicar mi experiencia en coordinación, negociación y análisis para aportar soluciones de calidad, manteniéndome en constante aprendizaje y aportando valor desde el primer día.
+Aporto una sólida base técnica actualizada (Java 21, Spring Boot, React, NestJS, Docker) combinada con bagaje en entornos legados (COBOL / CICS / DB2). Destaco por mi madurez profesional, alta autonomía en la resolución de problemas y orientación a la calidad del código y la arquitectura.
 
 ## Contacto
 
